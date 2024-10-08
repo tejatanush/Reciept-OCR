@@ -15,7 +15,7 @@ I used a compiler CPU provided in google colab while running this project.
 ## Requirements  
 Pytessract 
 Matplotlib                                                                                                                                                                                                                                                                                                                                                                                                                  
-OpenCV
+OpenCV                                                                                                                                                                                                                      
 PIL                                                                                                                                                                                                                         
 Operating System(OS)
 ## Programmes  
